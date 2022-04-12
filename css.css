@@ -76,11 +76,11 @@ body {
 }
 
 .gall-container {
-  width: 95%;
+  width: 100%;
   display: flex;
   padding: 0 20px;
   flex-direction: column;
-  height: 95vh;
+  height: 90vh;
 }
 
 .slide {
